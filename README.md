@@ -5,3 +5,5 @@
 <p align="center"><sup> <b>More</b> info in my <a href="https://rentry.co/velvian">rentry</a> & <a href="https://spacedash.straw.page">strawpage</a>! :-)</sup> 
 <p align="center"><sup>   <a href="https://rentry.co/ggstaff">pt specific rentry</a> </sup>
 <p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzamhemlocke"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzamhemlocke&label=seeds&labelColor=%23000000&countColor=%236eac52&style=plastic" /></a>
+<p align="center"><sup> Thank you to whoever happens to crown me in whispers! I really appreciate it.</sup>
+<p align="center"><sup> <ins>Often times I can't respond to say thank you because my ponytown gets bugged if I'm offtab for too long! :o(</ins> </sup>
